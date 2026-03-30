@@ -1,7 +1,7 @@
 {
-    "latest_version": "2.2.0",
+    "latest_version": "2.3.0",
     "release_date": "2026-04-30",
-    "download_url": "https://https://github.com/DRP1987/SarTel_update-version-/releases/download/v2.3.0/CANBusMonitor_v2.3.0.zip",
+    "download_url": "https://github.com/DRP1987/SarTel_update-version-/releases/download/v2.3.0/CANBusMonitor_v2.3.0.zip",
     "checksum_sha256": "",
-    "release_notes": "2.3.0.Initial release with auto-update support."
+    "release_notes": "Version 2.3.0 - CAN bus protocol detection fix and auto-update support."
 }
