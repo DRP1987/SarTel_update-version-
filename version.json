@@ -1,7 +1,7 @@
 {
     "latest_version": "2.3.0",
     "release_date": "2026-04-30",
-    "download_url": "https://"https://raw.githubusercontent.com/DRP1987/SarTel_update-version-/main/version.json",
+    "download_url": "https://raw.githubusercontent.com/DRP1987/SarTel_update-version-/main/version.json",
     "checksum_sha256": "",
     "release_notes": "2.3.0.Initial release with auto-update support."
 }
